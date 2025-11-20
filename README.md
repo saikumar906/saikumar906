@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikumar906&label=Profile%20views&color=0e75b6&style=flat" alt="saikumar906" /> </p>
 
-- 🔭 I’m currently working in **palle Technologies**
+- 🔭 I’m currently Tranning in **palle Technologies**
 
 - 🌱 I’m currently working on **Data analytics and python projects**
 
 - 👯 I’m looking to collaborate on **Data Analyst & python roles**
 
-- 🤝 I’m looking for help with **Hr Analytics Dashboard**
+- 🤝 I’m Done project in PowerBI to Create **Hr Analytics Dashboard**
 
 - 📫 How to reach me **gannamanisaikumar@gmail.com**
 
